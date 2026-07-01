@@ -230,6 +230,20 @@ const zaira = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h2 align="center">
+<img src="https://img.icons8.com/3d-fluency/94/snake.png" width="40"/>
+<i>&nbsp; Contribution Snake &nbsp;</i>
+<img src="https://img.icons8.com/3d-fluency/94/snake.png" width="40"/>
+</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/zairahussain27/zairahussain27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
 <img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="40"/>
 <i>&nbsp; GitHub Trophies &nbsp;</i>
 <img src="https://img.icons8.com/3d-fluency/94/trophy.png" width="40"/>

@@ -235,6 +235,7 @@ const zaira = {
 <img src="https://img.icons8.com/3d-fluency/94/snake.png" width="40"/>
 </h2>
 
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/zairahussain27/zairahussain27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="98%"/>
 </div>
